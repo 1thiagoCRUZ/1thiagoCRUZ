@@ -1,6 +1,6 @@
 <h1> Olá, mundo! 👋👾 </h1>
 
-<h2>Sou o Thiago, estudante de BCC, e a tecnologia é a minha paixão. Desde sempre, estou buscando entender como as coisas funcionam por trás da tela e como posso usar isso para criar algo novo. </h2>
+<h2>Sou o Thiago, estudante de BCC , e a tecnologia é a minha paixão. Desde sempre, estou buscando entender como as coisas funcionam por trás da tela e como posso usar isso para criar algo novo ! </h2>
 
 ###
 <br>
